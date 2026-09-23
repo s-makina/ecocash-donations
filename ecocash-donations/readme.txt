@@ -1,5 +1,5 @@
 === EcoCash Donations ===
-Contributors: yourorganisation
+Contributors: getup & glo
 Tags: donations, ecocash, zimbabwe, mobile money, fundraising
 Requires at least: 5.8
 Tested up to: 6.7

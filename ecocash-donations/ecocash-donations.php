@@ -6,7 +6,7 @@
  * Version:           1.1.0
  * Requires at least: 5.8
  * Requires PHP:      7.4
- * Author:            Getup&Glo
+ * Author:            Getup & Glo
  * License:           GPL-2.0-or-later
  * Text Domain:       ecocash-donations
  */
